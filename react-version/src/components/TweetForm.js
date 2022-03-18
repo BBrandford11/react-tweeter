@@ -1,4 +1,4 @@
-function TweetForm(){
+function TweetForm() {
   return (
     <section className="newtweet">
       <form method="post" action="/tweets" className="newtweet__form">
